@@ -1,0 +1,20 @@
+.banner {
+background-image: url("https://www.jewbuzz.fr/wp-content/uploads/2019/04/desert2.jpg");
+        background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+  }
+.banner h1 {
+    color: #d45d79;
+}
+.banner p {
+    color: white;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #ea7ad7;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
